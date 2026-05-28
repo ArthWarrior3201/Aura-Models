@@ -32,4 +32,4 @@ This engine is tailor-made to deliver high-speed, localized token streaming on c
 
 ## ⚡ Model On HuggingFace
 
-View The Project On HuggingFace by Visiting https://huggingface.co/arthpandeyofficial/Aura-1-Thinking
+View The Project On HuggingFace By Visiting https://huggingface.co/arthpandeyofficial/Aura-1-Thinking
