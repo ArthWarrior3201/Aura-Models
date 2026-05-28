@@ -1,0 +1,11 @@
+# Ignore local OpenVINO workspace directories
+aura_ov_int4_workspace/
+local_qwen_config/
+
+# Ignore local training outputs and adapter matrices
+aura_outputs/
+
+# Ignore any binary model weight formats
+*.safetensors
+*.bin
+*.xml
