@@ -16,11 +16,9 @@ This engine is tailor-made to deliver high-speed token streaming, running smooth
 
 ---
 
-## 📊 Performance Footprint Comparison
+## Performance Footprint
 
-| Optimization Layer | Resource Footprint (RAM/VRAM) | Minimum Target Hardware | Run Status |
-| :--- | :--- | :--- | :--- |
-| **Baseline Raw (FP16)** | `~8.5 GB - 10.0 GB` | Standard CPU / Basic GPU Space | Clean Stream |
+* **Baseline Raw (FP16):** `~8.5 GB - 10.0 GB` | Standard CPU / Basic GPU Space
 
 ---
 
